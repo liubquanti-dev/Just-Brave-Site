@@ -124,6 +124,20 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Інші сервери',
+            items: [
+
+              {
+                label: 'Minecraft',
+                to: 'https://mcount.fun',
+              },
+              {
+                label: 'Rust',
+                to: 'https://fhawk.fun',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} LIUBQUANTUM GROUP.`,
       },
