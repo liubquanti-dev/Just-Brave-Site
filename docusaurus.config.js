@@ -55,6 +55,7 @@ const config = {
         logo: {
           alt: 'Just Brave Logo',
           src: 'img/logo-small.png',
+          href: '/',
         },
         items: [
           {
