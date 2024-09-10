@@ -76,6 +76,11 @@ const config = {
             position: 'left'
           },
           {
+						href: 'https://stats.uptimerobot.com/NowpAIVNnk',
+						className: 'navbar-item-uptimerobot',
+						position: 'right',
+					},
+          {
 						href: 'https://github.com/liubquanti-dev/Just-Brave-Site',
 						className: 'navbar-item-github',
 						position: 'right',
