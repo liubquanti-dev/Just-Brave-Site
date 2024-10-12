@@ -4,11 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Тестування',
+    title: 'Сервер не працює',
     imgSrc: require('@site/static/img/fishing.png').default,
     description: (
       <>
-        Наразі сервер проходить тестування. Доєднуйтеся та діліться своїми враженнями про нього, аби ми знали, як його розвивати.
+        Роботу сервера було зупинено та відкладено на невідомий термін у зв'язку з відсутністю гравців. Деталі про плани на запуск сервера можна знайти в <a href="https://discord.gg/TYs8FjvzFf" target='_blank'>нашій спільноті</a>.
       </>
     ),
   },

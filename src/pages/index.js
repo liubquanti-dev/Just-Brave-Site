@@ -19,9 +19,9 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://wiki.jbrave.fun/how-to-join"
+            to="https://discord.gg/TYs8FjvzFf"
             target="_self">
-            Грати на сервері
+            Інформація про сервер
           </Link>
         </div>
       </div>
