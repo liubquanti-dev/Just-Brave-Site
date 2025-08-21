@@ -5,7 +5,7 @@ const config = {
   tagline: 'Безкоштовний публічний Terraria сервер',
   favicon: 'img/favicon.png',
 
-  url: 'https://jbrave.fun',
+  url: 'https://jbrave.liubquanti.click',
   baseUrl: '/',
 
   organizationName: 'White-Heart-Dev',
@@ -64,13 +64,13 @@ const config = {
         },
         items: [
           {
-            to: 'https://wiki.jbrave.fun/',
+            to: 'https://jbravewiki.liubquanti.click/',
             position: 'left',
             label: 'Вікі',
             target: '_self',
           },
           {
-            to: 'https://wiki.jbrave.fun/blog/',
+            to: 'https://jbravewiki.liubquanti.click/blog/',
             target: '_self',
             label: 'Блог',
             position: 'left'
@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'Вікі',
-                to: 'https://wiki.jbrave.fun/',
+                to: 'https://jbravewiki.liubquanti.click/',
               },
             ],
           },
@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'Steam',
-                to: 'https://steamcommunity.com/groups/dglade',
+                to: 'https://steamcommunity.com/groups/liubquanti',
               },
             ],
           },
@@ -126,7 +126,7 @@ const config = {
             items: [
               {
                 label: 'Блог',
-                to: 'https://wiki.jbrave.fun/blog/',
+                to: 'https://jbravewiki.liubquanti.click/blog/',
               },
               {
                 label: 'GitHub',
@@ -140,11 +140,11 @@ const config = {
 
               {
                 label: 'Minecraft',
-                to: 'https://mcount.fun',
+                to: 'https://mcount.liubquanti.click',
               },
               {
                 label: 'Rust',
-                to: 'https://fhawk.fun',
+                to: 'https://fhawk.liubquanti.click',
               },
             ],
           },
